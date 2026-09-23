@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kalyan
 
-### 💻 Web Developer | BCA Student | DSA Learner
+### 💻 Web Developer  | DSA Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Developer;React+Developer;DSA+Learner;Future+Full+Stack+Developer" />
 
@@ -10,14 +10,19 @@
 
 ---
 
-## 🚀 About Me
 
-- 🎓 I'm currently pursuing **Bachelor of Computer Applications**
-- 🌱 I'm learning **Full Stack Web Development**
-- 🧠 I'm learning **Data Structures & Algorithms**
-- 💻 I love building responsive and interactive websites
-- 🚀 I'm exploring modern web technologies
-- 🤝 I'm looking for **Web Development Internship opportunities**
+
+## 👨‍💻 About Me
+
+🎓 **B.Voc in Software Development** Student  
+💻 **Web Developer** passionate about building modern web applications  
+🌱 Currently learning **Full Stack Web Development**  
+🧠 Practicing **Data Structures & Algorithms**  
+⚡ Exploring **JavaScript, React.js & modern technologies**  
+🚀 Building projects and turning ideas into reality  
+📚 Always learning, building and improving  
+
+> 💡 **Code • Learn • Build • Grow**
 
 ---
 
